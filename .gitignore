@@ -1,2 +1,4 @@
 venv
 .env
+students.db
+gemini_cache.db
